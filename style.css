@@ -1,10 +1,10 @@
-{
+  {
     margin : 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Overpass", sans-serif;
-    -webkit-font-smoothing: antialiaseed;
-}
+    -webkit-font-smoothing: antialiased;
+  }
 
 :root {
     --dark-blue:#262E38;
